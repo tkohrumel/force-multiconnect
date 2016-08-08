@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>AuthController</members>
+        <members>HerokuConnectSetup</members>
+        <members>RESTAuthConnection</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>HCReferenceArchitecture</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Connection__c</members>
+        <members>Heroku_Config__c</members>
+        <members>Tweet__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomTab</name>
+    </types>
+    <version>34.0</version>
+</Package>

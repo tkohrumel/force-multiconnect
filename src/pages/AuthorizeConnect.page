@@ -1,0 +1,5 @@
+<apex:page id="authConnect" controller="AuthController" sidebar="false">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"/>
+
+  <a href="{!authurl}" class="btn btn-primary btn-lg active" role="button" target="_blank">Authenticate Heroku Connect</a>
+</apex:page>

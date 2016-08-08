@@ -1,0 +1,18 @@
+{
+    "projectName": "forcedotcom-multiconnect",
+    "username": "tkoh@demo.com",
+    "id": "ee96a270-5d13-11e6-a6ea-170e6afd0f94",
+    "namespace": "",
+    "environment": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "/Users/tkohrumel/Development/force",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "CustomApplication",
+        "CustomObject",
+        "CustomTab"
+    ]
+}
